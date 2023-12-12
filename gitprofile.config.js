@@ -56,11 +56,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: '',
+      title: 'E-Portfolio Artifacts',
       description:
         '',
       imageUrl: '',
-      link: '',
+      link: 'https://drive.google.com/drive/folders/114ryqaz0jCvG1SDKnkTe82bARFV46ZnT?usp=share_link',
     },
     {
       title: '',
